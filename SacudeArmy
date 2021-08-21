@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sacude Army</title>
+        <meta charset="utf-8">
+        <meta name="keywords" content="streamer,sacude,gamer,twitch">
+        <meta name="description" content="Comunidad de streamers y gamers">
+        <meta name="author" content="Nicolás Brito">
+        <meta name="copyrigth" content="Sacude Inc.">
+        <meta name="robots" content="index">
+    </head>
+    <body>
+        <div>
+            <header>
+                <nav><ol>
+            <li><a href="SacudeArmy.html">INICIO</a></li>
+            <li><a href="Historia.html">HISTORIA</a></li>
+            <li><a href="SacudeArmyAwards.html">SACUDE ARMY AWARDS</a></li>
+            <li><a href="SacudeVirtual.html">SACUDE VIRTUAL</a></li>
+            <li><a href="Redes.html">REDES</a></li>
+            <li><a href="Eventos.html">EVENTOS</a></li>
+            <li><a href="Contacto.html">CONTACTOS</a></li>
+        </ol>
+        </nav>
+            </header>
+                    </div>
+        <div><h1>SACUDE ARMY</h1></div>
+        <div><h2>Bienvenidos a la página oficial de la Sacude Army</h2></div>
+        <img src="https://logos-marcas.com/wp-content/uploads/2020/04/Twitter-Logo.png"/>
+        <a href="https://twitter.com/sacudearmy" target="_BLANK">Twitter</a>
+        <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c540.png"/>
+        <a href="https://www.twitch.tv/sacudearmy" target="_BLANK">Twitch</a>
+        <img src="https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png"/>
+        <a href="https://discord.com/invite/yfNcanB" target="_BLANK">Discord</a>
+        <img src="https://anthoncode.com/wp-content/uploads/2019/07/logo-minimalist-instagram.png"/>
+        <a href="https://www.instagram.com/sacudearmy/" target="_BLANK">Instagram</a>
+        <img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png"/>
+        <a href="https://www.youtube.com/channel/UCRm1wsmUJLcvcpLl99BMO5g?view_as=subscriber" target="_BLANK">YouTube</a>
+        <footer>
+            <p><b>SACUDE ARMY® | ALL RIGHTS RESERVED 2021</b></p>
+        <p><b>V 2.8</b></p>
+        </footer>
+    </body>
+</html>
